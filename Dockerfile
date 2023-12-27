@@ -1,7 +1,7 @@
 FROM ghcr.io/home-assistant/home-assistant:stable
 
-# Copy local configuration files
-COPY ./config /config
+# # Copy local configuration files
+# COPY ./config /config
 
 # Set the time zone
 VOLUME /etc/localtime:/etc/localtime:ro
