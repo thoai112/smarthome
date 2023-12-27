@@ -7,7 +7,7 @@ FROM ghcr.io/home-assistant/home-assistant:stable
 VOLUME /etc/localtime:/etc/localtime:ro
 
 # Run as privileged for device access
-RUN setcap CAP_NET_RAW+eip /usr/sbin/tcpdump
+# RUN setcap CAP_NET_RAW+eip /usr/sbin/tcpdump
 
 # Expose port 8123
 EXPOSE 8123
