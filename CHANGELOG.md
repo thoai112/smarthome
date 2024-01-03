@@ -1,3 +1,15 @@
+# v0.0.2 (Wed Jan 03 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update Dockerfile ([@thoai112](https://github.com/thoai112))
+
+#### Authors: 1
+
+- [@thoai112](https://github.com/thoai112)
+
+---
+
 # v0.0.1 (Thu Dec 28 2023)
 
 :tada: This release contains work from a new contributor! :tada:
